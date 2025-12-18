@@ -1,0 +1,5 @@
+body { font-family: 'Arial', sans-serif; background: #f0f2f5; text-align: center; padding: 50px; }
+.container { background: white; max-width: 450px; margin: auto; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+input { width: 80%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; }
+button { background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+#bulletin { margin-top: 20px; text-align: left; border-top: 2px solid #eee; padding-top: 15px; }
