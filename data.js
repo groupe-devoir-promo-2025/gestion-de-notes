@@ -1,0 +1,17 @@
+const listeEtudiants = [
+    { matricule: "25H2001", nom: "namikaze noel", physique: 10, securite: 13, genie: 10, reseau: 15 },
+    { matricule: "25H2002", nom: "tsapi tsano", physique: 16, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "fokou jules", physique: 12, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "soga kendra", physique: 15, securite: 10, genie: 11, reseau: 12},
+    { matricule: "25H2002", nom: "cizawo sean", physique: 18, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "ayatou mounir", physique: 14, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "edou david", physique: 12, securite: 10, genie: 11, reseau: 10},
+    { matricule: "25H2002", nom: "leonel", physique: 12, securite: 10, genie: 11, reseau: 11 },
+    { matricule: "25H2002", nom: "ndifor schekina", physique: 12, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "pascal", physique: 12, securite: 10, genie: 11, reseau: 12},
+    { matricule: "25H2002", nom: "tati", physique: 12, securite: 10, genie: 11, reseau: 12},
+    { matricule: "25H2002", nom: "tina", physique: 12, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "zero", physique: 14, securite: 10, genie: 11, reseau: 12 },
+    { matricule: "25H2002", nom: "arold", physique: 12, securite: 10, genie: 11, reseau: 12},
+    { matricule: "25H2015", nom: "ayabany", physique: 14, securite: 16, genie: 13, reseau: 12 },
+];
